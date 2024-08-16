@@ -1,0 +1,10 @@
+Line 1  A guy goes to a bar.
+Line 2  Guy orders beer.
+Line 3  Beer ran out.
+Line 4  The guy is angry and punches the bartender
+Line 5  He is arrested for assault.
+Line 6  He realizes bartender was lying.
+Line 7  The guy becomes even madder.
+Line 8  He becomes Caseoh and eats the entire solar system.
+Line 9              The End
+Line 10 Moral: Never lie.
